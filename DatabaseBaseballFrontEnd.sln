@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite1(2)", "D:\Disc E\Case\Third Year\EECS 341\BaseballDB Project\WebSite1\", "{1358D663-119A-4459-96EF-B957532F0502}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50681"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Disc E\Case\Third Year\EECS 341\BaseballDB Project\WebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50681\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50681"
+		Release.AspNetCompiler.PhysicalPath = "D:\Disc E\Case\Third Year\EECS 341\BaseballDB Project\WebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50681\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50681"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50681"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Disc E\Case\Third Year\EECS 341\BaseballDB Project\WebSite1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50681\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50681"
+		Release.AspNetCompiler.PhysicalPath = "D:\Disc E\Case\Third Year\EECS 341\BaseballDB Project\WebSite1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50681\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50681"
+		SlnRelativePath = "D:\Disc E\Case\Third Year\EECS 341\BaseballDB Project\WebSite1\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website1(1)", ".", "{2D8C354B-3A49-4102-95EE-74AAD96BA932}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_54146"
+		Debug.AspNetCompiler.PhysicalPath = "..\Website1\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54146\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_54146"
+		Release.AspNetCompiler.PhysicalPath = "..\Website1\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_54146\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "54146"
+		SlnRelativePath = "..\Website1\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1358D663-119A-4459-96EF-B957532F0502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1358D663-119A-4459-96EF-B957532F0502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8C354B-3A49-4102-95EE-74AAD96BA932}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8C354B-3A49-4102-95EE-74AAD96BA932}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF87D0B-04CF-4AAC-B518-6E5F0D0616E5}
+	EndGlobalSection
+EndGlobal
